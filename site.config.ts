@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Zuno-Wu-portfolio',
-  domain: 'zuno-wu.portfolio',
+  name: 'zuno-wu-portfolio',
+  domain: 'zuno-wu-portfolio',
   author: 'Zuno',
 
   // open graph metadata (optional)
